@@ -58,6 +58,3 @@ list of companies involved in quantum computing, organized by the type of quantu
 -   **Los Alamos National Laboratory**: Conducts research in quantum computing and information science.
 -   **MIT (Massachusetts Institute of Technology)**: Engaged in various quantum research initiatives.
 
-### Conclusion
-
-These companies and institutions are at the forefront of quantum computing research and development, each pursuing unique approaches and technologies to advance the field. The landscape is rapidly evolving, with new players emerging and existing ones forming collaborations to enhance quantum computing capabilities.
